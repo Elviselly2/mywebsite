@@ -1,0 +1,53 @@
+# Web Project
+
+This is a simple web project consisting of an index page and three additional pages: Home, About, and My Projects. The project demonstrates basic HTML and CSS, as well as linking between different pages.
+
+## Directory Structure
+
+The project directory structure is as follows:
+
+## Files
+
+- **index.html**: This is the main entry point of the website. It contains links to the Home, About, and My Projects pages.
+
+- **home.html**: This file contains the content for the Home page. It includes links to the About and My Projects pages, as well as a link back to the index page.
+
+- **about.html**: This file contains the content for the About page. It includes links to the Home and My Projects pages, as well as a link back to the index page.
+
+- **myproject.html**: This file contains the content for the My Projects page. It includes links to the Home and About pages, as well as a link back to the index page.
+
+- **style.css**: This file contains the CSS styling for the project. It is linked to each of the HTML files to apply consistent styling across the pages.
+-**profile.js
+
+
+## Features
+
+- **Navigation Bar**: Each page contains a navigation bar with links to the Home, About, and My Projects pages, as well as a link back to the index page.
+- **Consistent Styling**: The project uses a single CSS file (`style.css`) to apply consistent styling across all pages.
+- **Responsive Design**: The project is designed to be responsive and adapt to different screen sizes.
+
+## How to Run
+
+1. Clone or download the project to your local machine.
+2. Open the `index.html` file in your web browser to view the main entry point of the website.
+3. Use the navigation bar to navigate between the Home, About, and My Projects pages.
+
+## Author
+
+**Elvis Elly**
+- Web developer based in Nairobi, Kenya
+- Specializes in software development and has expertise in JavaScript, Python, React, HTML, and CSS
+
+## Contact
+
+- Phone: +254740 279 346
+- Email: elvisotieno24@gmail.com
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/elvis-elly-0367ab166?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Instagram](https://www.instagram.com/elviselly7100?igsh=YzljYTk1ODg3Zg==)
+- [Facebook](https://www.facebook.com/elvis.elly.7923)
+- [GitHub](https://www.github.com/Elviselly2)
+
+

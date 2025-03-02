@@ -1,0 +1,68 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+background-color: black;
+}
+.navbar {
+    text-align: right;
+    margin-bottom: 20px;
+}
+.navbar a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #0077b5;
+    font-weight: bold;
+    
+}
+.profile {
+    max-width: 400px;
+    max-height: 900px;
+    margin: 0 auto;
+    background: rgb(170, 168, 168);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.profile img {
+    display: block;
+    max-width: 150px;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+}
+.profile h1 {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+.profile p {
+    text-align: center;
+} .profile .social-links {
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+.profile .social-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #0077b5;
+}
+.profile .social-links a.instagram {
+    color: #0c17ac; 
+}
+.profile .social-links a.facebook {
+    color: #0d4edc;}
+    .profile .social-links a.github {
+    color: #0d4edc; 
+}  
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #0077b5;
+    color: white;
+    
+}
+</style>
