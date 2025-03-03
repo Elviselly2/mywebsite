@@ -56,6 +56,25 @@ background-color: black;
     .profile .social-links a.github {
     color: #0d4edc; 
 }  
+@media (max-width: 750px) {
+    .profile img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .profile h1 {
+        font-size: 1.2em;
+    }
+
+    .profile p {
+        font-size: 0.9em;
+    }
+
+    #changecolor {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+}
 
 footer {
     text-align: center;
@@ -65,4 +84,5 @@ footer {
     color: white;
     
 }
+
 </style>
